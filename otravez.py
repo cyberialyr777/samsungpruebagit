@@ -1,2 +1,6 @@
 print("mafer")
-print("belipop")
+
+numero = int(input('escruba un numero positivo: '))
+
+if numero <= 0:
+    
