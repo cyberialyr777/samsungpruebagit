@@ -17,7 +17,7 @@ while x == 0:
     else:
         print("Elige un número mayor a 0")
 
-        x = 1
+    x = 1
 
 print(listaImpar)
     
