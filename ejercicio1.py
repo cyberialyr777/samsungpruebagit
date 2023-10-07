@@ -12,6 +12,9 @@ while x == 0:
             resultado = 0
             resultado = x % 2
             
+            if resultado != 0:
+                listaImpar.append(x)
+
         x = 1
 
 print(listaImpar)
