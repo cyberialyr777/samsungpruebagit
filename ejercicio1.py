@@ -14,6 +14,8 @@ while x == 0:
             
             if resultado != 0:
                 listaImpar.append(x)
+    else:
+        print("Elige un número mayor a 0")
 
         x = 1
 
