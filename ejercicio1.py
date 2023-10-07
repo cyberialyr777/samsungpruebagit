@@ -12,4 +12,4 @@ while x == 0:
     elif numero > 0:
         x == 1
         for x in range(1,numero):
-            lisraInpar.append(numero)
+            
