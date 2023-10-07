@@ -11,8 +11,7 @@ while x == 0:
         for x in range(1,numero):
             resultado = 0
             resultado = x % 2
-
-        
+            
         x = 1
 
 print(listaImpar)
