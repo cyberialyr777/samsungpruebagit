@@ -14,10 +14,11 @@ while x == 0:
             
             if resultado != 0:
                 listaImpar.append(x)
+        x = 1
     else:
         print("Elige un número mayor a 0")
 
-    x = 1
+    
 
 print(listaImpar)
     
