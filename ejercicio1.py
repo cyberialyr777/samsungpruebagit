@@ -1,6 +1,9 @@
 
 x = 0
 
+
+lisraInpar=[]
+
 while x == 0:
     numero = int(input('escriba un numero positivo: '))
 
